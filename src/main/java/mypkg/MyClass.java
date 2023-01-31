@@ -5,6 +5,11 @@ public class MyClass {
 	{
 		System.out.println("Hello DevOps! Welcome to Jenkins");
 	}
+	
+	public void get()
+	{
+		System.out.println("Hello DevOps! Welcome to Jenkins");
+	}
 	public static void main(String[] args) {
 		MyClass ob = new MyClass();
 		ob.show();
