@@ -10,5 +10,7 @@ public class MyClass {
 		ob.show();
 		ob.show();
 		ob.show();
+		ob.show();
+		ob.show();
 	}
 }
