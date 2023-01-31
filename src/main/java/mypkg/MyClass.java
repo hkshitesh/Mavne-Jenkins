@@ -8,5 +8,7 @@ public class MyClass {
 	public static void main(String[] args) {
 		MyClass ob = new MyClass();
 		ob.show();
+		ob.show();
+		ob.show();
 	}
 }
